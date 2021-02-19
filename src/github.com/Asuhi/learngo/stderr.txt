@@ -1,0 +1,240 @@
+ok
+[?1049h[1;24r(B[m[4l[?7h[?25l[?1h=[?1000h[H[2J********************************************************************************[8;1H********************************************************************************[24;1H[view][24dSYS_INF][Rel_INF][ReloadNSOLE:yog Target CONSOLE:y[[24d[9d
+[SYS_IMP][Reload:318] Load Log Config File Success![13;18H[21;10H
+
+
+[9d
+
+[SYS_IMP][Init:14] init frame module![18;62H[24d[9;17H[1K[9;25H[SYS_INF][Reload:[11;34H[1K[40G[SYS_IMP][Init:14] init frame modu
+[SYS_INF][Init:21] init module<CommondModule> successs![18d[24d[9d[S
+
+
+
+[SYS_INF][Init:21] init module<EventModule> successs![17;5H[24d[9;12H[1K l[SYS_INF][Re[12;51H[K
+
+[SYS_INF][Init:21] init module<MsgModule> successs![24d[24d[9;8H[1K	][[SYS_INF[12;51Hesss![14;19H[1K ini[SYS_INF][Init:21]
+[SYS_IMP][_LoadConfig:112] load none netconfig![d[24d[9d[15;19H   	2]  oa   on 	con  
+[SYS_INF][Init:21] init module<NetModule> successs![24d[9;17H[1K [SYS_INF][Reload:
+
+
+
+[K[76G[24dINF][Init:21] init module<EventModule> successs![15;19Hfig	2] load none	confi
+
+[SYS_INF][Init:21] init module<SessionPool> successs!
+
+[SYS[2424d[2424[24d[9;13H[1K o[SYS_INF][Rel[13;33H[1K en[SYS_INF][Init:21] init module<Ev[17;26H[1K [SYS_INF][Init:21] init mo
+[SYS_IMP][Init:26] init server module![24d[9d[10;13H o[K[22G Load Log Config File Success!
+
+
+[K SYS_INF][Init:21] init module<EventModule> successs![19;34H[SYS_INF][Init:29] init module<ChatModule> processing![24d[24d[9d[10;13Hload:318]
+
+
+[
+
+ [
+
+
+
+
+[SYS_INF][Init:34] init module<ChatModule> successs!
+
+
+
+
+
+
+
+[9;20H[1K	g [SYS_INF][Reload:315[13;46H[1K[13;55H[SYS_INF][Init:21] init module<EventModule> su[16;11H[K[16;28H  e<NetModule> successs![20;11H[18X
+[SYS_INF][Init:29] init module<DataModule> processing!
+
+
+
+
+
+
+[9;4H
+
+
+[K    _INF][Init:21] init module<CommondModule> successs!
+
+
+
+ [[16;11HInit:21] init modul
+
+
+[K[19;39H	e> processing![20;11HInit:34] init modu
+
+[SYS_INF][Init:34] init module<DataModule> successs!
+
+[9;10H[1K	[SYS_INF][
+
+
+[SYS[13;41H[1K e[SYS_INF][Init:21] init module<EventModul[19;28Hule<ChatModul[21;25H[14X
+
+[SYS_INF][Init:29] init module<FriendModule> processing!
+
+[S[SYS_INF][Init:21] init module<EventModul[19;28Hule<ChatModul[21;25H[14X
+
+[SYS_INF][Init:29] init module<FriendModule> processing!
+
+[S[9d    _[9;13r[13;1H
+[1;24r[13;1H[SYS_INF][In	   [13;23r[23;1H
+[1;24r[13;13H        [20;25Hmodule<DataMod
+
+
+[SYS_INF][Init:34] init module<FriendModule> successs![9d[S[9;15r[15;1H
+[1;24r[12;13Hit:21] i[15;73H[15;22r[22;1H
+[1;24r[22;1H[SYS_INF][ nit:34] init    u[22;40Hdule> successs![23;16H29[23;32HGuildModule> processing![9;8H[1K	[9;16r[16;1H
+[1;24r[16;15H:26] init server module![16;17H[16;21r[21;1H
+[1;24r[21;1H[SYS_INF][Init:34] init module<FriendModule> successs![22;11HInit:29	module<GuildModule> processing!	][[2234[22g![23;45Hsuccesss![23;16H34[23;[Hs[53G![9d[[9;13r[13;1H
+[1;24r[13;4HS_INF][Init:21] init module<NetModule> successs!   [13;21r[21;1H
+[1;24r[21;1H[SYS_INF][Init:29] init module<GuildModule> processing![22;16H34[22;45Hsuccesss![K[23;H[23;16H29[23![23Horse[23Hprocessi[23H16H29[23;32HH[1ng![9d[S[9;12r[12;1H
+[1;24r[12;1H[SYS_INF][Init:21] init module<SessionPool> succes s![13;20r[20;1H
+[1;24r[20;5H[20;23r[23;1H
+[1;24r[20;6H[1K
+
+
+[SYS_INF][Init:34] init module<HorseModule> successs![9d    _I[9;16r[16;1H
+[1;24r[11;51Hs[16d[SYS_INF][Init:29] init module<DataModule> processing![16;16H34[16;44Hsuccesss![K[17;16H29[17;32HFriendModule> proce[17[H
+[rssing![15;16H29[;44Hprocessing!
+
+[SYS_I
+
+
+
+
+
+
+
+[SYS_INF][Init:29] init module<ItemModule> processing!
+
+
+
+[9d[9;18r[18;1H
+[1;24r[18;34HiendModule> successs![18;41H[18;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:34] init module<ItemModule> successs![9d[9;13r[13;1H
+[1;24r[13;1H[SYS_INF][Init:34] init module<ChatModule> successs![A[12;18r[18;1H
+[1;24r[18;75H[18;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:29] init module<LoginModule> processing![238
+[1;24r[18;16H34[18;32HGuild[18;45Hsuccesss![K[19;16H29[19;45Hprocessing![20;16H34[20;32HHorseModule> successs![K[21;16H29[21;44Hprocessing![22;16H34[22;32HItemModule> successs![K
+[SYS_INF][Init:29] init module<LoginModule> processing![9d[9;15r[15;1H
+[1;24r[15;1H[SYS_INF][Init:34] init modu[15;43H
+16;21r[21;1H
+[1;24r[15;44H> successs![21d[SYS_INF][Init:34] init module<ItemModule> successs![22;16H29[22;32HLoginModule> proce[;16H29[;32HLoginModule> processing![34[23;successs!sing!
+
+[9;14H[1K	6][9;13r[13;1H
+[1;24r[13;35HaModule> successs![13;41H[15;18r[18;1H
+[1;24r[13;1H[SYS_INF][Init:29] init module<FriendModule> processing![14;16H34[14;46Hsuccesss![K
+
+
+
+[SYS_INF][Init:34] init module<HorseModule> successs![19;16H29[19;32HItemModule> processing![20;16H34[20;44Hsuccesss![K[21;16H29[[LoginModule> proce[21
+[152;24rssing![19;16H29123;44Hprocessing!
+
+
+
+[SYS_INF][Init:29] init module<MailModule> processing!
+
+
+
+[9d[S[9;12r[12;1H
+[1;24r[12;1H[SYS_INF][Init:29][12;28H[12;17r[17;1H
+[1;24r[12;20H        [17;12Hnit:29] init module<HorseModule> processing![17;12H[17;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:34] init module<MailModule> successs![16;23r[;
+[[16;16H29[16;45Hprocessing![17;16H34[17;32HHorseModule> successs![K[18;16H29[18;44Hprocessing![19;16H34[19;32HItemModule> successs![K[20;16H29[20;45Hprocessing![21;16H34[21;32HLoginModule> successs![K[22;16H29[22;44Hprocessing!
+[SYS_INF][Init:34] init module<MailModule> successs![9d[S[9;12r[12;1H
+[1;24r[11;20Hinit mod
+[SYS_INF][In[12;23H[12;18r[18;1H
+[1;24r[12;13H           [18;5H_INF][Init:29] init module<ItemModule> processing![6G[18;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:29] init module<ObjectModule> processing![9d[12;19r[19;1H
+[1;24r[9;16H34[9;44Hsuccesss![K[10;16H29[10;32HFriendModule> processing![11;16H34[11;46Hsuccesss![K[19r[3G1H
+[3r[19r3H[19;13H15X  
+
+
+
+[SYS_INF][Init:34] init module<ObjectModule> successs!
+
+
+
+[9;5H[1K	[9;13r[13;1H
+[1;24r[13;3H[13;17r[17;1H
+[1;24r[13;1H    
+
+
+
+[19;23r[23;1H
+[1;24r[19;23r[17H
+[17H5H_INF][Init:29] init module<LoginModule> proce[1;24rssing![18;16H34[18;45Hsuccesss![K[18;16H[19;16H29[19;16H![19;44Hprocessing![19;16H[20;16H34[19;[Hng![19;[20;32HMailModule> success[34s![K[21;16H29[21;46Hprocessing![HM
+[SYS_INF][Init:34] init module<ObjectModule> successs![1GH!
+[SYS_INF][Init:29] init module<PlayerModule> proces ing!
+
+
+[9d[9;15r[15;1H
+[1;24r[12;1H[SYS[15;33HtemModule> processing![15;38H
+[dG21r[21;1H
+[1;24r[16;1H[SYS[21;11HInit:34] init module<ObjectModule> successs![22;16H29[22;32HPlayer[22;46Hprocessing![23H[ng!
+[6CRI][_LoadConfig:197] read robot xml failed! no all test
+[dG[9d[9;14r[14;1H
+[1;24r[14;24H[14;19r[19;1H
+[1;24r[14;24H[1K[19;63H[SYS_INF][Init:29] init module<ObjectModule> processing![20;16H34[20;46Hsuccesss![K
+[SYS_INF][Init:29[2116Player[Z[21;46Hprocessing!54H!
+6CRI][_LoadConfig:197] read robot xml failed! no all test
+
+G
+[6GINF][Init:34] init module<PlayerModule> successs![K
+[23;55H[9d[9;16H34[9;45Hsuccesss![K[10;16H29[10;32HHorse[10;45Hprocessing![11;16H34[11;38H[K[14;17r[17;1H
+[1;24r[12;16H29[12;32HItemModule> processing![13;16H34[13;44Hsuccesss![K[17;69H178;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:29] init module<RankModule> processing!7178
+[1;24r[17;16H34[17;32HMailModule> successs![K[18;16H29[18;46Hprocessing![19;16H34[19;32HObject[19;46Hsuccesss![K
+[6GINF][Init:29] init module<PlayerModule> processing![K
+[6GCRI][_LoadConfig:197] read robot xml failed! no all test[22;16H34[22;32HPlayerModule> successs
+[SYS_INF][Init:29] init module<RankModule> processing![9;12H[1K	4][SYS_INF][Init:29[9;32HHorse[9;45Hprocessing![10;16H34[10;45Hsuccesss![K[11;16H29[11;32HItemModule> processing![12;16H34[12;44Hsuccesss![K[12;20r[20;1H
+[1;24r[20;1H[SYS_INF][Init:29] init module<PlayerModule> processing![A[19;23r[23;1H
+[1;24r[23;1H[SYS_INF][Init:34] init module<RankModule> successs![9d[9;12r[12;1H
+[1;24r[12;30He<ItemModule> successs![12;33H[12;16r[16;1H
+[1;24r[16;1H[SYS_INF][Init:29][16;35H[16;21r[21;1H
+[1;24r[16;20H[15X[21d[SYS_INF][Init:29] init module<RankModule> processing!34[successs![K16H16H29[23H[23;32HSceneModule> proce[23;52H29SceneModule> processing![16;21r[21;1H
+[1;24r[16;20H[15X[21d[SYS_INF][Init:29] init module<RankModule> processing!34[successs![K16H16H29[23H[23;32HSceneModule> proce[23;52H29SceneModule> processing!sing![9d[16;20Hinit module<Obj
+
+
+[K[19;19Hfig:197] read robot xml failed! no all test
+
+
+
+[9d[19d[SYS_CRI][_LoadCon
+
+
+
+[9d[20d[K[20;68H[SYS_INF][Init:34] init [SYS_INF]ayerMit module<PlayerModule> successs!
+
+
+
+
+
+[9d[18d[21;48H[1K[SYS_INF][Init:29] init module<RankModule> proce
+[K
+[9d[18;9H[1K [[SYS_INF]
+
+
+
+[SYS_INF][Init:34] init modul[SYS_INF][Init:34] init modul[22;44Hsuccesss![44dHs
+[9d[18;30H[K[18;40Hdule> processing!
+
+
+
+[K
+[9d[18;30He<PlayerMo
+[K[19;23H197] read robot xml failed! no all test
+
+
+[SYS_INF][Init:34] init module<RankModule> successs!
+
+
+
+
+[9d[18;55H[K
+[SYS_CRI][_LoadConfig:
+
+
+
+[9d[17;19H[1K	[SYS_INF][Init:34][18;55Hg![23d[9d[14;17H[1K [SYS_INF][Init:29[17;27H[1K u[SYS_INF][Init:34] init mod[19;59H [22;49H[1K[22;57H[SYS_INF][Init:34] init module<RankModule> succes[23;22H   mo           

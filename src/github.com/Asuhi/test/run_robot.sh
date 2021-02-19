@@ -1,0 +1,1 @@
+nohup /app/robot_qyn/linux/robot_qyn 110 100 1000 pass_scene 50  &
